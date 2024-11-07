@@ -8,6 +8,10 @@ This repository contains links to public documentation I've created:
 - **Recording Manager V20 Manual:** https://voiptools.com/docs/recording-manager-v20/
 - **On Call Manager V20 Manual:** https://voiptools.com/docs/on-call-manager-v20/
 
+ # Sample work Walkthrough
+ The following video link explains how create the user manuals and API documentation.
+ https://vimeo.com/manage/videos/1027215084
+
  # Public Blogs:
 
  Find the below links to view my public articles,
